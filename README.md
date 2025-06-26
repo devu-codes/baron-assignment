@@ -1,5 +1,5 @@
 #### Setup project
-
+Clone the repository to local machine - `git clone https://github.com/devu-codes/baron-assignment.git`
 1. Create Virtual Environment (Optional) -
 
    1. `python -m venv venv`
